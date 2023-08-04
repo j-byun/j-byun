@@ -12,9 +12,7 @@
   <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=leo503801' height='200px'>
 </a> -->
 
-
-
-
+<br/>
 
 # 💻 SKILLS 
 
@@ -27,19 +25,16 @@
 ### 🌱 Now Studying
 <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=square&amp;logo=amazonec2&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=square&amp;logo=amazonrds&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=square&amp;logo=springsecurity&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=square&amp;logo=hibernate&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&amp;logo=react&amp;logoColor=white"/>
 
+<br/>     
 
-
-
-      
-
-
-## Solved.ac Profile
+# ✨ Profiles
+### Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhbyun)](https://solved.ac/jhbyun/)
 
-## Github Profile
+### Github Profile
 [![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-byun&count_private=true&custom_title=jihye's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/j-byun/github-readme-stats)
 
-## Github Profile Trophy
+### Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=j-byun&row=1&column=4&theme=dracula&no-bg=true&margin-w=15)
 
 

@@ -1,8 +1,12 @@
-# 😄 Hi I'm Jihye
+![header](https://capsule-render.vercel.app/api?type=wave&color=fcf8f2&height=200&text=Hi%20I'm%20Jihye&fontColor=c0b0ff)
+
+# 😄 About Jihye
 
 2023.01 ~ 삼성 청년 SW아카데미
 
+<!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j-byun&theme=dracula" />
+-->
 
 <!-- <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=j-byun&theme=calm&show_icons=true" height='200px'>

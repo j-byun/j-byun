@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=fcf8f2&height=200&text=Hi%20I'm%20Jihye&fontColor=c0b0ff)
 
-# 😄 About Jihye
+# 😄 About Me
 
 2023.01 ~ 삼성 청년 SW아카데미
 

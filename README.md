@@ -20,7 +20,7 @@
 
 # 💻 SKILLS 
 
-<img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&amp;logo=spring&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&amp;logo=springboot&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-4479A1?style=square&amp;logo=mybatis&amp;logoColor=white"/>  
+<img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&amp;logo=spring&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&amp;logo=springboot&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=square&amp;logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-4479A1?style=square&amp;logo=mybatis&amp;logoColor=white"/>  
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&amp;logo=html5&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&amp;logo=css3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&amp;logo=javascript&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&amp;logo=vuedotjs&amp;logoColor=white"/> 
 

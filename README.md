@@ -20,14 +20,16 @@
 
 # 💻 SKILLS 
 
-<img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&amp;logo=spring&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&amp;logo=springboot&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=square&amp;logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-4479A1?style=square&amp;logo=mybatis&amp;logoColor=white"/>  
+<img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&amp;logo=spring&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&amp;logo=springboot&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-4479A1?style=square&amp;logo=mybatis&amp;logoColor=white"/>   <img src="https://img.shields.io/badge/Hibernate-59666C?style=square&amp;logo=hibernate&amp;logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=square&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=square&amp;logo=mariaDB&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&amp;logo=html5&amp;logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&amp;logo=css3&amp;logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&amp;logo=javascript&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&amp;logo=vuedotjs&amp;logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=square&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=square&amp;logo=github&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=square&amp;logo=jirasoftware&amp;logoColor=white"/> 
 
 ### 🌱 Now Studying
-<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=square&amp;logo=amazonec2&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=square&amp;logo=amazonrds&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=square&amp;logo=springsecurity&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=square&amp;logo=hibernate&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&amp;logo=react&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=square&amp;logo=amazonec2&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=square&amp;logo=amazonrds&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=square&amp;logo=springsecurity&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&amp;logo=react&amp;logoColor=white"/>
 
 <br/>     
 
